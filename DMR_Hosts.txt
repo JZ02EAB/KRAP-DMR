@@ -39,8 +39,7 @@ BM_5051_Australia		5051	5051.master.brandmeister.network	passw0rd	62031
 HB_KRAP_DMR 0000  103.174.114.231 passw0rd  62030
 HB_KRAP_DMRID1	0000  103.187.147.208	passw0rd  62030
 HB_LANGKAT  0000  101.50.0.209  langkat1  62031
-HB_PELELAWAN  0000  156.67.217.55 passw0rd  62030
-HB_RIAU 0000  103.163.139.80  passw0rd  62031
-HB_KOGANA_SUMUT 0000  202.125.82.165  passw0rd  62031
-HB_EXPERIMENT 0000  101.50.0.209  langkat1  62030
+HB_LANGKAT_TG91 0000  101.50.0.209  langkat1  62033
+HB_LANGKAT_TG51003  0000  101.50.0.209  langkat1  62035
+
 ######################################################################################################
