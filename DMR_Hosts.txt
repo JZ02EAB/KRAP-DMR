@@ -1,3 +1,4 @@
+
 #	DMR_Hosts.txt
 #
 #	Written for Pi-Star Digital Voice Node by Andy Taylor (MW0MWZ)
@@ -41,6 +42,7 @@ HB_KRAP_DMRID1	0000  103.187.147.208	passw0rd  62030
 HB_LANGKAT  0000  38.47.176.16  langkat1  62031
 HB_KOPERASI 0000  103.175.218.10 g@skeun  62030
 HB_K2PI 0000  dmrid.org   passsw0rd  62030
+HB_SIBOLGA  dmr.sibolga.org   passw0rd  62031
 
 
 ######################################################################################################
